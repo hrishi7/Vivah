@@ -21,7 +21,7 @@
 	<!--top fixed navigation bar-->
 	<div class="navbar  navbar-inverse navbar-fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="http://localhost/Vivah.com/index.php">Vivah</a>
+        <a class="navbar-brand" href="https://marraige.herokuapp.com/index.php">Vivah</a>
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target  =".navbar-collapse">
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
