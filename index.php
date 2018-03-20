@@ -29,11 +29,11 @@
             </button>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">
-          	<li><a href="http://localhost/Vivah.com/userHome.php"><?php  echo  $_SESSION['username'];?></a></li>
-            <li class="active"><a href="http://localhost/Vivah.com/index.php">Home</a></li>
-            <li><a href="http://localhost/Vivah.com/adminLogin.php">Admin Login <br></a></li>
-            <li><a href="http://localhost/Vivah.com/userLogin.php">User Login <br></a></li>
-            <li><a href="http://localhost/Vivah.com/signUp.php">New User Registration <br></a></li>
+          	<li><a href="https://marraige.herokuapp.com/userHome.php"><?php  echo  $_SESSION['username'];?></a></li>
+            <li class="active"><a href="https://marraige.herokuapp.com/index.php">Home</a></li>
+            <li><a href="https://marraige.herokuapp.com/adminLogin.php">Admin Login <br></a></li>
+            <li><a href="https://marraige.herokuapp.com/userLogin.php">User Login <br></a></li>
+            <li><a href="https://marraige.herokuapp.com/signUp.php">New User Registration <br></a></li>
             <li><a href="#">About us</a></li>
           </ul>
         </div>
